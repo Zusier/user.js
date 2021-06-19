@@ -951,7 +951,7 @@ user_pref("devtools.toolsidebar-height.inspector", 350);
 user_pref("devtools.toolsidebar-width.inspector", 350);
 user_pref("devtools.toolsidebar-width.inspector.splitsidebar", 350);
 user_pref("distribution.iniFile.exists.value", false);
-user_pref("dom.ipc.processCount", 1);
+user_pref("dom.ipc.processCount", 8);
 user_pref("extensions.abuseReport.amoDetailsURL", "");
 user_pref("extensions.abuseReport.url", "");
 user_pref("extensions.blocklist.pingCountVersion", 0);
